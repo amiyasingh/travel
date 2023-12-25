@@ -703,7 +703,6 @@ background: rgba(23, 123, 165, 1);
 color: white;
 border: none;
 }
-/* responsiveness */
 @media only screen and (max-width:991px) {
     .navbar{
         background-color: white;
@@ -982,5 +981,4 @@ border: none;
           font-family: 'Poppins', sans-serif;
           left: 557px;
           position: absolute;
-          }
-}
+    }}
